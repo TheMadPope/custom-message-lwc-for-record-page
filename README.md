@@ -1,6 +1,6 @@
 # Custom Error Message LWC for Record Page
 
-Simple LWC to display a configured message, shown or hidden with conditional visibility.
+Simple LWC to display a configured message, shown or hidden with conditional visibility. Can be included on any Lightning Record Page.
 
 ## Read All About It
 
