@@ -1,0 +1,10 @@
+.red-card {
+    background-color: #ff0000; /* Red background color */
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.center-text {
+    text-align: center;
+    color: #ffffff; /* White text color */
+}
